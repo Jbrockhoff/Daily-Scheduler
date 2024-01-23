@@ -13,11 +13,11 @@ This is a scheduling application to be used to organize time during the workday.
 
 Here is a screenshot of the deployed application:
 
-![dayschedule.jpg](assets/dayscheduler.jpg)
+![dayschedule.jpg](./assets/dayscheduler.jpg)
 
 Here is a link to the deployed application:
 
-jbrockhoff.github.io/Daily-Scheduler/
+http://jbrockhoff.github.io/Daily-Scheduler/
 
 Here is a link to my GitHub repository for the application:
 
@@ -27,9 +27,11 @@ https://github.com/Jbrockhoff/Daily-Scheduler
 ## Credits
 Resources:
 
-http://w3school.com
+http://w3school.com on jQuery
 
-https://developer.mozilla.org/en-US/
+https://developer.mozilla.org/en-US/ on event listeners 
+
+https://day.js.org/docs/en/display/format on date and time formatting
 
 
 Tutoring assistance from Chris Baird
