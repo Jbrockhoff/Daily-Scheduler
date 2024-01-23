@@ -13,7 +13,7 @@ This is a scheduling application to be used to organize time during the workday.
 
 Here is a screenshot of the deployed application:
 
-![placeholder ss name]
+![application-screenshot]
 
 Here is a link to the deployed application:
 
@@ -25,8 +25,12 @@ Here is a link to my GitHub repository for the application:
 
 
 ## Credits
+Resources:
 
+http://w3school.com
+https://developer.mozilla.org/en-US/
 
+Tutoring assistance from Chris Baird
 
 ## License
 
