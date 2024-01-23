@@ -17,7 +17,7 @@ Here is a screenshot of the deployed application:
 
 Here is a link to the deployed application:
 
-https://jbrockhoff.github.io/Daily-Scheduler/
+jbrockhoff.github.io/Daily-Scheduler/
 
 Here is a link to my GitHub repository for the application:
 
