@@ -13,7 +13,7 @@ This is a scheduling application to be used to organize time during the workday.
 
 Here is a screenshot of the deployed application:
 
-![dayschedule.jpg](./assets/dayscheduler.jpg)
+![dayschedule](./assets/dayschedule.jpg)
 
 Here is a link to the deployed application:
 
